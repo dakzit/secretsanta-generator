@@ -51,7 +51,7 @@ in __application.properties__.
 
 The database url used is `jdbc:h2:mem:testdb`.
 ## About
-
+## 
 This project was a personal project to learn more about Spring development, database management, and industry application architecture.
 
 A small summary of the skills showcased during this project: :small_red_triangle_down:
